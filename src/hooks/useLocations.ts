@@ -18,11 +18,11 @@ export function resolveLocationIcon(icon: LocationIcon | string) {
     case "home":
       return Icon.House;
     case "work":
-      return Icon.Briefcase;
+      return Icon.AppWindowGrid3x3;
     case "gym":
       return Icon.Person;
     case "store":
-      return Icon.Briefcase;
+      return Icon.Tray;
     case "school":
       return Icon.Star;
     case "other":
